@@ -1,12 +1,14 @@
-# Cisco Packet-Tracer
+# Cisco Packet-Tracer Lab 💻🔌
 
 ## Objective
+✨ To demonstrate a basic network topology using Cisco Packet Tracer, illustrating the interconnection of devices and the flow of data within a local area network (LAN).
+The objective is to provide hands-on experience in creating a simple network infrastructure and understanding the fundamentals of network communication within a controlled environment.
 
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
+- Understanding of LAN and the assignment of static and dynamic IP assignment. 
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
