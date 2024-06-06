@@ -12,12 +12,6 @@
 - Ability to segment vlans for each department.
 
 
-### Tools Used
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
 ## Steps
 
 LAB NAME: Small Network Connectivity using routers
@@ -34,7 +28,7 @@ THEORY: A router will ensure the security of data and provides access to the int
 
 ![Screenshot 2024-06-06 162509](https://github.com/nathanielreich2k/Packet-Tracer/assets/155709615/e1fff7f8-39fc-4783-9bab-2b3cb62591a2)
 
-OUTPUT:
+OUTPUT: A Ping was sent from PC 1 to PC 2
 
 ![ping](https://github.com/nathanielreich2k/Packet-Tracer/assets/155709615/609e2f62-8051-412b-8294-608735f87c28)
 
