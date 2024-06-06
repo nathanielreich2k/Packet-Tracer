@@ -16,10 +16,9 @@
 
 ✨ LAB NAME: Small Network Connectivity using routers
 
-OBJECTIVE: The aim is to configure a simple network to allow connectivity for sending and receiving packets.
+✨ OBJECTIVE: The aim is to configure a simple network to allow connectivity for sending and receiving packets.
 
-THEORY: A router will ensure the security of data and provides access to the internet.
-
+✨ THEORY: A router will ensure the security of data and provides access to the internet.
 
 
 
@@ -34,11 +33,14 @@ THEORY: A router will ensure the security of data and provides access to the int
 
 
 
+
+## Steps
+
 ✨ LAB NAME: VLAN Network Topolgy 
 
-OBJECTIVE: The aim is to configure a simple network to allow connectivity for sending and receiving packets.
+✨ OBJECTIVE: The aim is to configure a simple network to allow connectivity for sending and receiving packets.
 
-THEORY: A router will ensure the security of data and provides access to the internet.
+✨ THEORY: A router will ensure the security of data and provides access to the internet.
 
 
 
