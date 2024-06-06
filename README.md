@@ -20,10 +20,64 @@
 
 ## Steps
 
-1. 
+LAB NAME: Small Network Connectivity using routers
 
-Example below.
+OBJECTIVE: The aim is to configure a simple network to allow connectivity for sending and receiving packets.
 
-*Ref 1: Network Diagram*
-![Screenshot 2024-06-06 150650](https://github.com/nathanielreich2k/Packet-Tracer/assets/155709615/a0508a77-2ba4-498f-b9c4-80d797dd731c)
+THEORY: A router will ensure the security of data and provides access to the internet.
+
+
+
+
+
+*Ref 1: Both Endpoints with a class C IP configuration receive ping packets.
+
+![Screenshot 2024-06-06 162509](https://github.com/nathanielreich2k/Packet-Tracer/assets/155709615/e1fff7f8-39fc-4783-9bab-2b3cb62591a2)
+
+OUTPUT:
+
+![ping](https://github.com/nathanielreich2k/Packet-Tracer/assets/155709615/609e2f62-8051-412b-8294-608735f87c28)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
